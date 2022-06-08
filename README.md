@@ -2,6 +2,8 @@
 
 ## Demo
 
+https://laravel-ecommerce.jitinrathore.com/
+
 ### Home Page
 
 ![Home](https://user-images.githubusercontent.com/93995641/172596169-ef064de0-b65d-44aa-9645-58f690af92b9.png)
